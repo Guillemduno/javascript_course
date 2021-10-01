@@ -1,1 +1,5 @@
-alert("akakak");
+/**
+ * Expressions and Statements
+ * 
+ */
+
